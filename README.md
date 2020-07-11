@@ -2,21 +2,20 @@
 
 Hi there 👋👯
 
-# 🔭 Current research/projects
- - Survival analysis on certain disease using air pollutant datasets
+-🔭 Current research/projects
+ :Survival analysis on certain disease using air pollutant datasets
 
-# 🌱 Learning 
- - Learning Stat in Gradschool
+-🌱 Learning 
+ :Learning Stat in Gradschool
 
-# 🤔 Interested in
- - Analysis on *imbalanced datasets*
+🤔 Interested in
+ : Analysis on *imbalanced datasets*
 
-# ✨ Languages
- - python
- - R
+- ✨ Languages
+ : python, R
 
-# ⚡ Fun facts
- - 
+- ⚡ Fun facts
+ : a secrete makes a woman woman 
 
-# 📫 How to reach me
- - danstat@yonsei.ac.kr
+- 📫 How to reach me
+ : danstat@yonsei.ac.kr
