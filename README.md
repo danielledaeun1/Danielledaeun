@@ -2,7 +2,7 @@
 
 Hi there 👋👯 Welcome to my github page!
 
-For more organised contents, I recommand you to come visit my blog! https://danielledaeun.github.io/
+For more organised contents, I recommend you to come visit my blog! https://danielledaeun.github.io/
 
 🔭 Current research/projects:Survival analysis on certain disease using air pollutant datasets
 
