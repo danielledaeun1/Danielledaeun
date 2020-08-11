@@ -2,7 +2,7 @@
 
 Hi there 👋👯 Welcome to my github page!
 
-🔭 Current research/projects
+🔭 **Current research/projects**
 
 [ongoing]
 - Survival analysis on IPF disease using air pollutant datasets
@@ -12,23 +12,20 @@ Hi there 👋👯 Welcome to my github page!
 [completed]
 - Model building to predict potential Samsung Pay users
 
-🌱 What am I doing now?
+🌱 **What am I doing now?**
 
 Learning Statitsitcs at Yonsei Univ. Department of Statistics and Data Science (M.D.)
 
 Analysist at CC&I research
 
-🤔 Interested topics  
+🤔 **Interested topics** 
 
 Analysis on *imbalanced datasets*
-
 Data synthesisation
-
 Statistical Learning
-
 Medical data anaylsis
 
-✨ Languages
+✨ **Languages**
 
 Python (intermediate)
 R (intermediate)
@@ -39,7 +36,6 @@ SAS (intermediate)
 1) danielledaeun.github.io
 
   Codes for my github blog!
-
   BTW I recommend you to come visit my blog! https://danielledaeun.github.io/ for more organised contents!!
 
 2) Codelog
