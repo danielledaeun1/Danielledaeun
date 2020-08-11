@@ -1,8 +1,10 @@
 **Danielle DaEun Lee. @Danielledaeun** 
 
 Hi there 👋👯 Welcome to my github page!
-BTW you can see what I've done in more organised posts at my blog! https://danielledaeun.github.io/ 
-If you fancy me 
+
+Do you fancy more organised contents? 
+
+Pls come visit my blog! https://danielledaeun.github.io/ 
 
 🔭 **Current research/projects**
 
@@ -33,7 +35,7 @@ Python (intermediate)
 R (intermediate)
 SAS (intermediate)
 
-⚡ Breif summary of my github page?
+⚡ **Breif summary of my github page**
 
 |repository|description|
 |------|---|
@@ -43,7 +45,7 @@ SAS (intermediate)
 |+|Projects (full codes on my analysis will soon to be posted)|
 
 
-📫 How to reach me 
+📫 **How to reach me** 
 
 danstat@yonsei.ac.kr
 any contacts will be welcomed ;))
