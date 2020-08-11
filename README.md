@@ -1,6 +1,8 @@
 **Danielle DaEun Lee. @Danielledaeun** 
 
 Hi there 👋👯 Welcome to my github page!
+BTW you can see what I've done in more organised posts at my blog! https://danielledaeun.github.io/ 
+If you fancy me 
 
 🔭 **Current research/projects**
 
@@ -33,18 +35,13 @@ SAS (intermediate)
 
 ⚡ Breif summary of my github page?
 
-1) danielledaeun.github.io
+|repository|description|
+|------|---|
+|danielledaeun.github.io|Codes for my github blog!|
+|Codelog| Archive for my written codes.|
+|Dannotes|drafs of my blog posts and some notes on statistics.|
+|+|Projects (full codes on my analysis will soon to be posted)|
 
-  Codes for my github blog!
-  BTW I recommend you to come visit my blog! https://danielledaeun.github.io/ for more organised contents!!
-
-2) Codelog
-  Archive for my written codes.
-
-3) Dannotes
-  drafs of my blog posts and some notes on statistics. 
-
-+) Projects (full codes on my analysis will soon to be posted) 
 
 📫 How to reach me 
 
