@@ -8,6 +8,7 @@ Hi there 👋👯 Welcome to my github page!
 - Survival analysis on IPF disease using air pollutant datasets
 - Classification model building for acute case detection for COPD disease
 - Spatiotemporal model building for toxic cases in ER visits in South Korea
+
 [completed]
 - Model building to predict potential Samsung Pay users
 
