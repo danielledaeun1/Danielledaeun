@@ -18,21 +18,21 @@ Pls come visit my blog! https://danielledaeun.github.io/
 
 🌱 **What am I doing now?**
 
--Learning Statitsitcs at Yonsei Univ. Department of Statistics and Data Science (M.D.)
--Analysist at CC&I research
+- Learning Statitsitcs at Yonsei Univ. Department of Statistics and Data Science (M.D.)
+- Analysist at CC&I research
 
 🤔 **Interested topics** 
 
--Analysis on *imbalanced datasets*
--Data synthesisation
--Statistical Learning
--Medical data anaylsis
+- Analysis on *imbalanced datasets*
+- Data synthesisation
+- Statistical Learning
+- Medical data anaylsis
 
 ✨ **Languages**
 
--Python (intermediate)
--R (intermediate)
--SAS (intermediate)
+- Python (intermediate)
+- R (intermediate)
+- SAS (intermediate)
 
 ⚡ **Breif summary of my github page**
 
