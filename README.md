@@ -2,10 +2,6 @@
 
 Hi there 👋👯 Welcome to my github page!
 
-Do you fancy more organised contents? 
-
-Pls come visit my blog! https://danielledaeun.github.io/ 
-
 🔭 **Current research/projects**
 
 [ongoing]
@@ -33,16 +29,6 @@ Pls come visit my blog! https://danielledaeun.github.io/
 - Python (intermediate)
 - R (intermediate)
 - SAS (intermediate)
-
-⚡ **Breif summary of my github page**
-
-|repository|description|
-|------|---|
-|danielledaeun.github.io|Codes for my github blog!|
-|Codelog| Archive for my written codes.|
-|Dannotes|drafs of my blog posts and some notes on statistics.|
-|+|Projects (full codes on my analysis will soon to be posted)|
-
 
 📫 **How to reach me** 
 
